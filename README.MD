@@ -1,9 +1,10 @@
 # MyFirewall
 
 ## IMPORTANT NOTE
--** This repository is intended to test my new application. It is aimed at users conducting functionality and stability tests. Once the application has been tested and deemed satisfactory, the source code will be released.
+** This repository is intended to test my new application. It is aimed at users conducting functionality and stability tests. Once the application has been tested and deemed satisfactory, the source code will be released.
 
-MyFirewall is a powerful, privacy-focused network security application for Android. It acts as a local gatekeeper, giving you total control over which applications can access the internet and blocking unwanted content at the source.
+**MyFirewall is a powerful, privacy-focused network security application for Android. It acts as a local gatekeeper, giving you total control over which applications can access the internet and blocking **unwanted content at the source.
+
 
 ## 🛡️ Key Features
 
