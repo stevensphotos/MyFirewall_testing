@@ -3,7 +3,7 @@
 Ce document contient une série de tests simples pour vérifier que **MyFirewall** protège correctement votre appareil. Aucun bagage technique n'est requis.
 
 ## 📋 Avant de commencer
-*   **Version de l'app :** v1.0.0 (ou plus récente)
+*   **Version de l'app :** v0.9 (ou plus récente)
 *   **Connexion :** Wi-Fi ou Données Mobiles active.
 *   **Important :** Si vous utilisez un autre VPN (ex: NordVPN), déconnectez-le avant de tester MyFirewall.
 
