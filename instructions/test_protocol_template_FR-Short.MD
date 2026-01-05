@@ -47,9 +47,9 @@ Ce document contient une série de tests simples pour vérifier que **MyFirewall
 4.  Allez dans l'écran Parametres et activezFiltres d'URL basé sur VPN
 5.  Ouvrez votre navigateur et rendez-vous sur le site suivant: https://adblock.turtlecute.org 
 6.  Observez le score de blocage
-7.  
+
 **Résultats attendus :**
-- [ ] Le scored de blocage doit dépasser 60% avec la liste de blocage Pubs et traceurs
+- [ ] Le score de blocage doit dépasser 60% avec la liste de blocage Pubs et traceurs
 - [ ] Sur d'autres sites, la navigation semble plus fluide.
 
 ---
