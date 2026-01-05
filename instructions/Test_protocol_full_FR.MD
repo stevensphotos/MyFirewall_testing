@@ -1,5 +1,5 @@
 
-Protocole de Test – MyFirewall (V1.0)
+Protocole de Test – MyFirewall (V0.9)
 Objectif
 Valider la stabilité, la sécurité et l’ergonomie de l’application MyFirewall sur des appareils Android (API 24 à 35).
 
